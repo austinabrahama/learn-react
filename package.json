@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This is to learn react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinabrahama/learn-react.git"
+  },
+  "keywords": [],
+  "author": "Austin Abraham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinabrahama/learn-react/issues"
+  },
+  "homepage": "https://github.com/austinabrahama/learn-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
