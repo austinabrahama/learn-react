@@ -4,6 +4,7 @@
   "description": "This is to learn react",
   "main": "App.js",
   "scripts": {
+    "start": "npx parcel index.html",
     "test": "jest"
   },
   "repository": {
