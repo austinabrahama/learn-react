@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.headerContainer img {
+    width: 200px;
+}
+
+.headerContainer ul {
+    display: flex;
+    align-items: center;
+}
+
+.headerContainer ul li {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.resCardContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.restaurantCard {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 350px;
+}
+
+.restaurantCard img {
+    width: 330px;
+}
