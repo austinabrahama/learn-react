@@ -44,3 +44,7 @@ body {
 .restaurantCard img {
     width: 330px;
 }
+
+.filter {
+    padding: 10px;
+}
