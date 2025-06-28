@@ -18,12 +18,13 @@
     "url": "https://github.com/austinabrahama/learn-react/issues"
   },
   "homepage": "https://github.com/austinabrahama/learn-react#readme",
-  "devDependencies": {
-    "parcel": "^2.12.0",
-    "process": "^0.11.10"
-  },
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10",
+    "react-router-dom": "^6.22.0"
   }
 }
